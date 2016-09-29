@@ -8,8 +8,8 @@ Convert a Penny Board into an electric skateboard.
 * [ZIPPY 3000mAh 20C LiPo x2](http://www.hobbyking.com/hobbyking/store/__31954__ZIPPY_Flightmax_3000mAh_3S1P_20C_UK_Warehouse_.html)
 * [HobbyKing X-Car 120A ESC](http://www.hobbyking.com/hobbyking/store/__77155__HobbyKing_174_8482_X_Car_Beast_Series_ESC_1_8_Scale_120A_UK_Warehouse_.html)
 * [Alien Power System Remote Control](http://alienpowersystem.com/shop/radio-transmitters/alien-power-system-2-4ghz-electric-skateboard-remote-control/)
-* [Timing Belt 255-5M-9](http://www.ebay.co.uk/itm/161964844497?_trksid=p2057872.m2749.l2649&var=460921283795&ssPageName=STRK%3AMEBIDX%3AIT)
-* [Timing Belt Pulley](http://www.ebay.co.uk/itm/18-5M-09-9mm-Wide-Pilot-Bore-5M-5mm-Pitch-HTD-Timing-Belt-Pulley-CNC-ROBOTICS-/201296118050?hash=item2ede2f0122)
+* [Timing Belt 255-5M-09](http://www.ebay.co.uk/itm/161964844497?_trksid=p2057872.m2749.l2649&var=460921283795&ssPageName=STRK%3AMEBIDX%3AIT)
+* [Timing Pulley 18-5M-09](http://www.ebay.co.uk/itm/18-5M-09-9mm-Wide-Pilot-Bore-5M-5mm-Pitch-HTD-Timing-Belt-Pulley-CNC-ROBOTICS-/201296118050?hash=item2ede2f0122)
 
 
 
